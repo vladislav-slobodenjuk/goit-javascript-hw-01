@@ -1,0 +1,29 @@
+{
+  "name": "goit-javascript-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladislav-slobodenjuk/goit-javascript-hw-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladislav-slobodenjuk/goit-javascript-hw-01/issues"
+  },
+  "homepage": "https://github.com/vladislav-slobodenjuk/goit-javascript-hw-01#readme",
+  "dependencies": {
+    "joi": "^17.4.2",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
